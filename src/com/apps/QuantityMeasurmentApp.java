@@ -1,4 +1,4 @@
-package com.apps.QuantityMeasurement;
+package com.apps;
 
 import com.apps.QuantityMeasurement.Length.LengthUnit;
 

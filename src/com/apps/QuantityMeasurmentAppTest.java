@@ -1,4 +1,4 @@
-package com.apps.QuantityMeasurement;
+package com.apps;
 
 import org.junit.jupiter.api.Test;
 
