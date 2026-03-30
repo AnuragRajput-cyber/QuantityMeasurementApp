@@ -12,7 +12,7 @@ public class User {
 
     private String email;
     private String name;
-    private String provider; // GOOGLE / LOCAL
+    private String provider; 
 	public Long getId() {
 		return id;
 	}
@@ -37,7 +37,5 @@ public class User {
 	public void setProvider(String provider) {
 		this.provider = provider;
 	}
-
-    // getters & setters
     
 }
